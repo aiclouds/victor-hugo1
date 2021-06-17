@@ -5462,7 +5462,7 @@ mimic-response@^1.0.0:
   resolved "https://registry.yarnpkg.com/mimic-response/-/mimic-response-1.0.1.tgz#4923538878eef42063cb8a3e3b0798781487ab1b"
   integrity sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==
 
-mini-css-extract-plugin@^0.11.3:
+mini-css-extract-plugin@^0.11.2:
   version "0.11.3"
   resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.11.3.tgz#15b0910a7f32e62ffde4a7430cfefbd700724ea6"
   integrity sha512-n9BA8LonkOkW1/zn+IbLPQmovsL0wMb9yx75fMJQZf2X1Zoec9yTZtyMePcyu19wPkmFbzZZA6fLTotpFhQsOA==
@@ -6962,9 +6962,9 @@ postcss-values-parser@^2.0.0, postcss-values-parser@^2.0.1:
     uniq "^1.0.1"
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.27, postcss@^7.0.30, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.32"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.32.tgz#4310d6ee347053da3433db2be492883d62cec59d"
-  integrity sha512-03eXong5NLnNCD05xscnGKGDZ98CyzoqPSMjOe6SuoQY7Z2hIj0Ld1g/O/UQRuOle2aRtiIRDg9tDcTGAkLfKw==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
